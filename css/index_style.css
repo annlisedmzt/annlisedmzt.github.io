@@ -90,17 +90,20 @@ header {
 /* ------------------------------------ 1 ----------------------------------- */
 
 
-/* .container_1 {
+.container_1 {
     display: flex;
-    padding-left: 48px;
-} */
+    padding-left: 50px;
+}
 
+
+.container_1_img {
+    width: 60%;
+}
 
 
  .container_1 img {
-    width: 553px;
-    height: 370px;
-    padding-left: 145px; 
+    width: 100%;
+    padding-left: 15px; 
 } 
 
 .container_1 p {
